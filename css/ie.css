@@ -1,0 +1,19 @@
+#content h3 {
+	margin-top: 50px;
+}
+
+#percent {
+	top: 196px;
+}
+
+#newsletterForm  .email {
+	top: 10px;
+	width: 265px;
+	border: 1px solid white;
+	padding-top: 5px;
+	padding-bottom: 7px;
+}
+
+#newsletterForm .newsletterButton {
+	top: 10px;
+}

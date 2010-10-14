@@ -1,0 +1,23 @@
+#content-wrapper {
+	background: #4fa2c9 url('../images/ie6/mid-body-bg-ie6.jpg') repeat-x top center;
+}
+
+#content .paper-top {
+	background: url('../images/ie6/paper-top-ie6fix.png') no-repeat top center;
+}
+
+#content .paper-body {
+	background: url('../images/ie6/paper-body-ie6.jpg') repeat-y top center;
+}
+
+#newsletterForm  .email {
+	top: 0px;
+}
+
+#newsletterForm .newsletterButton {
+	top: 0px;
+}
+
+#footer {
+	background: url('../images/ie6/footer-bg-ie6.jpg') repeat-x top center;
+}
